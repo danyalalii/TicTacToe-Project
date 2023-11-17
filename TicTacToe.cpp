@@ -23,35 +23,6 @@ void BoardInitialization(char arr[20][20], int size)
 	}
 
 
-	/*arr[0][0] = 'X';
-	arr[0][1] = 'X';
-	arr[0][2] = 'X';
-	arr[0][3] = 'O';
-	arr[0][4] = 'X';
-	arr[1][0] = 'X';
-	arr[1][1] = 'X';
-	arr[1][2] = 'O';
-	arr[1][3] = 'X';
-	arr[1][4] = 'O';
-	arr[2][0] = 'X';
-	arr[2][1] = 'O';
-	arr[2][2] = 'X';
-	arr[2][3] = 'X';
-	arr[2][4] = 'O';
-	arr[3][0] = 'X';
-	arr[3][1] = 'X';
-	arr[3][2] = 'O';
-	arr[3][3] = 'O';
-	arr[3][4] = 'X';
-	arr[4][0] = ' ';
-	arr[4][1] = 'X';
-	arr[4][2] = 'X';
-	arr[4][3] = 'O';
-	arr[4][4] = ' ';*/
-
-
-
-
 }
 
 
