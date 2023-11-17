@@ -21,5 +21,7 @@ The objective is to be the first to form a line of n consecutive symbols (&#39;X
 horizontally, vertically, or diagonally on the grid.
 #### Gameplay:
 ● Players take turns to make their moves.
+
 ● Each player selects an empty cell on the grid and marks it with their symbol.
+
 ● The game continues until one player wins or there are no empty cells left (a draw).
