@@ -25,4 +25,3 @@ horizontally, vertically, or diagonally on the grid.
 ● Each player selects an empty cell on the grid and marks it with their symbol.
 
 ● The game continues until one player wins or there are no empty cells left (a draw).
-
