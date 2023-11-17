@@ -1,7 +1,7 @@
 ###
 
 <p align="center">
-  <img src="https://github.com/danyalalii/TicTacToe-Project/blob/main/Demo.png" alt="TicTacToe-Demo" /> 
+  <img src="https://github.com/danyalalii/TicTacToe-Project/blob/main/Demo1.png" alt="TicTacToe-Demo" /> 
 </p>
 
 
